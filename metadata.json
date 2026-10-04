@@ -1,0 +1,8 @@
+{
+  "name": "Water Meter GeoPlanner",
+  "description": "Automate GPS coordinate mapping by converting property data into precise WGS 84 location markers for efficient field surveying.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
